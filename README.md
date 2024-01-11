@@ -14,4 +14,4 @@
 => 사진 4장을 PDF 파일로 정리해서 올리기(sample 참조)
 
 
-과제 파일명: '이름_3rd_Assignment'
+과제 파일명: '이름_6th_Assignment'
